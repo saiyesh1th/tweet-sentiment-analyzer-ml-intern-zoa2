@@ -1,0 +1,11 @@
+text,sentiment
+'I love this new product, it's amazing!',positive
+'This is the worst customer service ever.',negative
+'Feeling good today!',positive
+'Absolutely terrible experience.',negative
+'So happy with my purchase!',positive
+'What a complete waste of time.',negative
+'The weather is just perfect.',positive
+'I'm so frustrated right now.',negative
+'Enjoying every moment.',positive
+'This movie was incredibly boring.',negative
